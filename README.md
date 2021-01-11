@@ -5,6 +5,5 @@ This application will help you make a list of the functionality of your project 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+The next fetures will be in progress "slack web hook for internal sales department"
 
