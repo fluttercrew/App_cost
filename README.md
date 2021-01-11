@@ -7,3 +7,4 @@ This application will help you make a list of the functionality of your project 
 This project is a starting point for a Flutter application.
 The next features will be in progress "Slack integration"
 
+![](Portfolio.png)
